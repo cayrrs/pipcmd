@@ -4,6 +4,11 @@ a very simple python tool that makes installing pip packages pretty simple. (thi
 
 you need python from www.python.org
 
+
+# license
+i dont fucking care do what the hell you want with this (Unlicense)
+
+
 # building
 you need the module pyinstaller for this (all this does is make the .py into an .exe)
 
